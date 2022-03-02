@@ -1,0 +1,1 @@
+# tfsec-migrate-rule
